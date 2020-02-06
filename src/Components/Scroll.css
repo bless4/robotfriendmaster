@@ -1,0 +1,8 @@
+.scroll {
+  overflow-y: hidden;
+  height: 800px;
+}
+
+.scroll:hover {
+  overflow-y: scroll;
+}
